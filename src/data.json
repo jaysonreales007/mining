@@ -1,0 +1,457 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Blockchain Basics",
+      "description": "Learn the fundamentals of blockchain technology",
+      "totalLessons": 20,
+      "difficulty": "Beginner",
+      "duration": "4 weeks",
+      "rewards": 100,
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Introduction to Blockchain",
+          "content": "Overview of blockchain technology and its history.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.ibm.com/topics/what-is-blockchain"
+        },
+        {
+          "id": 2,
+          "title": "Blockchain Architecture",
+          "content": "Understanding the structure of blockchain networks.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.geeksforgeeks.org/blockchain-architecture/"
+        },
+        {
+          "id": 3,
+          "title": "Cryptography in Blockchain",
+          "content": "Exploring the role of cryptography in securing blockchain networks.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.coindesk.com/learn/blockchain-101/how-does-blockchain-technology-work"
+        },
+        {
+          "id": 4,
+          "title": "Consensus Mechanisms",
+          "content": "Learning about different consensus algorithms like PoW and PoS.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.coindesk.com/learn/blockchain-101/what-is-a-consensus-mechanism"
+        },
+        {
+          "id": 5,
+          "title": "Types of Blockchains",
+          "content": "Comparing public, private, and consortium blockchains.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.investopedia.com/terms/b/blockchain.asp"
+        },
+        {
+          "id": 6,
+          "title": "Blockchain Use Cases",
+          "content": "Exploring real-world applications of blockchain technology.",
+          "duration": "1 minutes",
+          "referenceLink": "https://builtin.com/blockchain/blockchain-applications"
+        },
+        {
+          "id": 7,
+          "title": "Blockchain and Cryptocurrency",
+          "content": "Understanding the relationship between blockchain and digital currencies.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.investopedia.com/tech/blockchain-technology-cryptocurrency/"
+        },
+        {
+          "id": 8,
+          "title": "Blockchain Scalability",
+          "content": "Addressing challenges and solutions for blockchain scalability.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition"
+        },
+        {
+          "id": 9,
+          "title": "Blockchain Security",
+          "content": "Exploring security measures and potential vulnerabilities in blockchain networks.",
+          "duration": "55 minutes",
+          "referenceLink": "https://www.sciencedirect.com/science/article/pii/S2214212621000648"
+        },
+        {
+          "id": 10,
+          "title": "Blockchain Governance",
+          "content": "Understanding decision-making processes in blockchain networks.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.coindesk.com/learn/blockchain-101/what-is-blockchain-governance"
+        },
+        {
+          "id": 11,
+          "title": "Blockchain Interoperability",
+          "content": "Exploring ways different blockchain networks can communicate and interact.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.gemini.com/cryptopedia/why-is-interoperability-important-for-blockchain"
+        },
+        {
+          "id": 12,
+          "title": "Blockchain and IoT",
+          "content": "Examining the integration of blockchain with Internet of Things devices.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.ibm.com/blogs/blockchain/2020/01/blockchain-and-iot-a-match-made-in-heaven/"
+        },
+        {
+          "id": 13,
+          "title": "Blockchain in Supply Chain",
+          "content": "Understanding how blockchain improves supply chain management.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.ibm.com/topics/blockchain-for-supply-chain"
+        },
+        {
+          "id": 14,
+          "title": "Blockchain and Digital Identity",
+          "content": "Exploring blockchain-based solutions for digital identity management.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.frontiersin.org/articles/10.3389/fbloc.2020.00026/full"
+        },
+        {
+          "id": 15,
+          "title": "Blockchain in Healthcare",
+          "content": "Examining blockchain applications in the healthcare industry.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC757713/"
+        },
+        {
+          "id": 16,
+          "title": "Blockchain and Voting Systems",
+          "content": "Understanding how blockchain can enhance voting processes.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.scientificamerican.com/article/are-blockchains-the-answer-for-secure-elections-probably-not/"
+        },
+        {
+          "id": 17,
+          "title": "Regulatory Challenges in Blockchain",
+          "content": "Exploring legal and regulatory issues surrounding blockchain technology.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.weforum.org/agenda/2022/02/blockchain-technology-cryptocurrency-regulation/"
+        },
+        {
+          "id": 18,
+          "title": "Blockchain and Data Privacy",
+          "content": "Examining how blockchain addresses data privacy concerns.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/blockchain-for-data-privacy-and-security/"
+        },
+        {
+          "id": 19,
+          "title": "Future of Blockchain",
+          "content": "Discussing potential future developments and impacts of blockchain technology.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.gartner.com/smarterwithgartner/the-4-phases-of-the-blockchain-spectrum"
+        },
+        {
+          "id": 20,
+          "title": "Blockchain Career Opportunities",
+          "content": "Exploring job roles and skills needed in the blockchain industry.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.coursera.org/articles/blockchain-career-path"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Smart Contracts",
+      "description": "Understand and create smart contracts on blockchain platforms",
+      "totalLessons": 20,
+      "difficulty": "Intermediate",
+      "duration": "5 weeks",
+      "rewards": 11,
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Introduction to Smart Contracts",
+          "content": "Understanding the concept and benefits of smart contracts.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.ibm.com/topics/smart-contracts"
+        },
+        {
+          "id": 2,
+          "title": "Solidity Basics",
+          "content": "Learning the fundamentals of Solidity programming language.",
+          "duration": "60 minutes",
+          "referenceLink": "https://docs.soliditylang.org/en/v0.8.19/"
+        },
+        {
+          "id": 3,
+          "title": "Smart Contract Structure",
+          "content": "Exploring the components and structure of a smart contract.",
+          "duration": "1 minutes",
+          "referenceLink": "https://ethereum.org/en/developers/docs/smart-contracts/anatomy/"
+        },
+        {
+          "id": 4,
+          "title": "Variables and Data Types in Solidity",
+          "content": "Understanding different data types used in Solidity.",
+          "duration": "1 minutes",
+          "referenceLink": "https://docs.soliditylang.org/en/v0.8.19/types.html"
+        },
+        {
+          "id": 5,
+          "title": "Functions in Smart Contracts",
+          "content": "Learning how to define and use functions in smart contracts.",
+          "duration": "55 minutes",
+          "referenceLink": "https://www.tutorialspoint.com/solidity/solidity_functions.htm"
+        },
+        {
+          "id": 6,
+          "title": "Events and Logging",
+          "content": "Understanding how to use events for logging in smart contracts.",
+          "duration": "1 minutes",
+          "referenceLink": "https://ethereum.org/en/developers/tutorials/logging-events-smart-contracts/"
+        },
+        {
+          "id": 7,
+          "title": "Inheritance and Interfaces",
+          "content": "Exploring contract inheritance and interfaces in Solidity.",
+          "duration": "1 minutes",
+          "referenceLink": "https://docs.soliditylang.org/en/v0.8.19/contracts.html#inheritance"
+        },
+        {
+          "id": 8,
+          "title": "Error Handling in Smart Contracts",
+          "content": "Learning about error handling and exception management in Solidity.",
+          "duration": "1 minutes",
+          "referenceLink": "https://docs.soliditylang.org/en/v0.8.19/control-structures.html#error-handling-assert-require-revert-and-exceptions"
+        },
+        {
+          "id": 9,
+          "title": "Gas and Optimization",
+          "content": "Understanding gas costs and optimizing smart contracts.",
+          "duration": "55 minutes",
+          "referenceLink": "https://ethereum.org/en/developers/docs/gas/"
+        },
+        {
+          "id": 10,
+          "title": "Testing Smart Contracts",
+          "content": "Learning techniques for testing and debugging smart contracts.",
+          "duration": "60 minutes",
+          "referenceLink": "https://ethereum.org/en/developers/docs/smart-contracts/testing/"
+        },
+        {
+          "id": 11,
+          "title": "Deploying Smart Contracts",
+          "content": "Understanding the process of deploying smart contracts to a blockchain.",
+          "duration": "1 minutes",
+          "referenceLink": "https://ethereum.org/en/developers/tutorials/deploying-your-first-smart-contract/"
+        },
+        {
+          "id": 12,
+          "title": "Interacting with Smart Contracts",
+          "content": "Learning how to interact with deployed smart contracts.",
+          "duration": "1 minutes",
+          "referenceLink": "https://ethereum.org/en/developers/tutorials/interact-with-other-contracts-from-solidity/"
+        },
+        {
+          "id": 13,
+          "title": "Smart Contract Security",
+          "content": "Exploring common security vulnerabilities and best practices.",
+          "duration": "60 minutes",
+          "referenceLink": "https://consensys.github.io/smart-contract-best-practices/"
+        },
+        {
+          "id": 14,
+          "title": "Oracles in Smart Contracts",
+          "content": "Understanding the role of oracles in connecting smart contracts with external data.",
+          "duration": "1 minutes",
+          "referenceLink": "https://chain.link/education/blockchain-oracles"
+        },
+        {
+          "id": 15,
+          "title": "Token Standards (ERC20, ERC721)",
+          "content": "Learning about different token standards and their implementations.",
+          "duration": "55 minutes",
+          "referenceLink": "https://ethereum.org/en/developers/docs/standards/tokens/"
+        },
+        {
+          "id": 16,
+          "title": "Upgradeable Smart Contracts",
+          "content": "Exploring techniques for creating upgradeable smart contracts.",
+          "duration": "1 minutes",
+          "referenceLink": "https://docs.openzeppelin.com/learn/upgrading-smart-contracts"
+        },
+        {
+          "id": 17,
+          "title": "Smart Contract Design Patterns",
+          "content": "Understanding common design patterns in smart contract development.",
+          "duration": "55 minutes",
+          "referenceLink": "https://github.com/fravoll/solidity-patterns"
+        },
+        {
+          "id": 18,
+          "title": "Multi-Signature Wallets",
+          "content": "Learning how to implement multi-signature functionality in smart contracts.",
+          "duration": "1 minutes",
+          "referenceLink": "https://gnosis-safe.io/blog/2022/03/16/smart-contract-wallets-multisigs/"
+        },
+        {
+          "id": 19,
+          "title": "Cross-Chain Smart Contracts",
+          "content": "Exploring the concept and implementation of cross-chain smart contracts.",
+          "duration": "1 minutes",
+          "referenceLink": "https://blog.chain.link/cross-chain-smart-contracts/"
+        },
+        {
+          "id": 20,
+          "title": "Smart Contract Auditing",
+          "content": "Understanding the process and importance of smart contract audits.",
+          "duration": "55 minutes",
+          "referenceLink": "https://www.immunebytes.com/blog/smart-contract-audit/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "DeFi Fundamentals",
+      "description": "Explore decentralized finance concepts and applications",
+      "totalLessons": 20,
+      "difficulty": "Advanced",
+      "duration": "6 weeks",
+      "rewards": 200,
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Introduction to DeFi",
+          "content": "Understanding the basics of decentralized finance and its ecosystem.",
+          "duration": "1 minutes",
+          "referenceLink": "https://academy.binance.com/en/articles/the-complete-beginners-guide-to-decentralized-finance-defi"
+        },
+        {
+          "id": 2,
+          "title": "DeFi vs Traditional Finance",
+          "content": "Comparing decentralized finance with traditional financial systems.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.coindesk.com/learn/defi-vs-traditional-finance-what-you-need-to-know/"
+        },
+        {
+          "id": 3,
+          "title": "Decentralized Exchanges (DEXs)",
+          "content": "Exploring the concept and functioning of decentralized exchanges.",
+          "duration": "55 minutes",
+          "referenceLink": "https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex"
+        },
+        {
+          "id": 4,
+          "title": "Automated Market Makers (AMMs)",
+          "content": "Understanding the role of AMMs in decentralized trading.",
+          "duration": "1 minutes",
+          "referenceLink": "https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm"
+        },
+        {
+          "id": 5,
+          "title": "Liquidity Pools",
+          "content": "Learning about liquidity pools and their importance in DeFi.",
+          "duration": "1 minutes",
+          "referenceLink": "https://finematics.com/liquidity-pools-explained/"
+        },
+        {
+          "id": 6,
+          "title": "Yield Farming",
+          "content": "Exploring the concept of yield farming and its strategies.",
+          "duration": "60 minutes",
+          "referenceLink": "https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi"
+        },
+        {
+          "id": 7,
+          "title": "Lending and Borrowing in DeFi",
+          "content": "Understanding decentralized lending and borrowing platforms.",
+          "duration": "55 minutes",
+          "referenceLink": "https://finematics.com/lending-and-borrowing-in-defi-explained/"
+        },
+        {
+          "id": 8,
+          "title": "Stablecoins in DeFi",
+          "content": "Exploring the role and types of stablecoins in the DeFi ecosystem.",
+          "duration": "1 minutes",
+          "referenceLink": "https://ethereum.org/en/stablecoins/"
+        },
+        {
+          "id": 9,
+          "title": "Decentralized Insurance",
+          "content": "Learning about insurance protocols in the DeFi space.",
+          "duration": "1 minutes",
+          "referenceLink": "https://academy.binance.com/en/articles/what-is-defi-insurance"
+        },
+        {
+          "id": 10,
+          "title": "Synthetic Assets",
+          "content": "Understanding synthetic assets and their creation in DeFi.",
+          "duration": "1 minutes",
+          "referenceLink": "https://academy.shrimpy.io/post/what-are-synthetic-assets"
+        },
+        {
+          "id": 11,
+          "title": "Oracles in DeFi",
+          "content": "Exploring the importance of oracles in DeFi applications.",
+          "duration": "1 minutes",
+          "referenceLink": "https://chain.link/education/blockchain-oracles"
+        },
+        {
+          "id": 12,
+          "title": "Governance Tokens",
+          "content": "Understanding the role of governance tokens in DeFi protocols.",
+          "duration": "1 minutes",
+          "referenceLink": "https://academy.binance.com/en/articles/what-are-governance-tokens"
+        },
+        {
+          "id": 13,
+          "title": "Flash Loans",
+          "content": "Exploring the concept and applications of flash loans in DeFi.",
+          "duration": "55 minutes",
+          "referenceLink": "https://finematics.com/flash-loans-explained/"
+        },
+        {
+          "id": 14,
+          "title": "Decentralized Derivatives",
+          "content": "Learning about decentralized derivatives platforms in DeFi.",
+          "duration": "1 minutes",
+          "referenceLink": "https://academy.shrimpy.io/post/what-are-decentralized-derivatives"
+        },
+        {
+          "id": 15,
+          "title": "Yield Aggregators",
+          "content": "Understanding yield aggregators and their role in optimizing returns.",
+          "duration": "1 minutes",
+          "referenceLink": "https://academy.shrimpy.io/post/what-are-yield-aggregators"
+        },
+        {
+          "id": 16,
+          "title": "Cross-Chain DeFi",
+          "content": "Exploring cross-chain solutions and interoperability in DeFi.",
+          "duration": "55 minutes",
+          "referenceLink": "https://academy.binance.com/en/articles/what-is-cross-chain-communication"
+        },
+        {
+          "id": 17,
+          "title": "DeFi Security and Risks",
+          "content": "Understanding security challenges and risk management in DeFi.",
+          "duration": "60 minutes",
+          "referenceLink": "https://www.coindesk.com/learn/defi-security-how-to-stay-safe-in-crypto-in-2022/"
+        },
+        {
+          "id": 18,
+          "title": "DeFi Metrics and Analytics",
+          "content": "Learning how to analyze and interpret DeFi protocol metrics.",
+          "duration": "1 minutes",
+          "referenceLink": "https://academy.glassnode.com/defi/metrics"
+        },
+        {
+          "id": 19,
+          "title": "Regulatory Challenges in DeFi",
+          "content": "Exploring regulatory issues and compliance in the DeFi space.",
+          "duration": "55 minutes",
+          "referenceLink": "https://www.weforum.org/agenda/2021/06/decentralized-finance-defi-regulation-challenges-and-opportunities/"
+        },
+        {
+          "id": 20,
+          "title": "Future of DeFi",
+          "content": "Discussing potential developments and the future landscape of DeFi.",
+          "duration": "1 minutes",
+          "referenceLink": "https://www.coindesk.com/learn/2021/10/18/the-future-of-defi-is-on-tiktok/"
+        }
+      ]
+    }
+  ]
+}

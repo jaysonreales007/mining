@@ -1,0 +1,115 @@
+{
+  "quizzes": [
+    {
+      "courseId": 1,
+      "lessons": [
+        {
+          "lessonId": 1,
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the main purpose of blockchain technology?",
+              "options": [
+                "To create cryptocurrencies",
+                "To provide a decentralized and transparent ledger",
+                "To replace traditional databases",
+                "To speed up internet connections"
+              ],
+              "correctAnswer": 1
+            }
+          ]
+        },
+        {
+          "lessonId": 2,
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is NOT a key component of blockchain architecture?",
+              "options": [
+                "Nodes",
+                "Blocks",
+                "Central authority",
+                "Consensus mechanism"
+              ],
+              "correctAnswer": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": 2,
+      "lessons": [
+        {
+          "lessonId": 1,
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is a smart contract?",
+              "options": [
+                "A legally binding document",
+                "A self-executing contract with the terms directly written into code",
+                "A contract between smart devices",
+                "A contract that uses artificial intelligence"
+              ],
+              "correctAnswer": 1
+            }
+          ]
+        },
+        {
+          "lessonId": 2,
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which programming language is primarily used for writing smart contracts on Ethereum?",
+              "options": [
+                "JavaScript",
+                "Python",
+                "Solidity",
+                "C++"
+              ],
+              "correctAnswer": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": 3,
+      "lessons": [
+        {
+          "lessonId": 1,
+          "questions": [
+            {
+              "id": 1,
+              "question": "What does DeFi stand for?",
+              "options": [
+                "Decentralized Fiat",
+                "Defined Finance",
+                "Decentralized Finance",
+                "Digital Financial Instruments"
+              ],
+              "correctAnswer": 2
+            }
+          ]
+        },
+        {
+          "lessonId": 2,
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is NOT a key advantage of DeFi over traditional finance?",
+              "options": [
+                "Accessibility",
+                "Transparency",
+                "Centralized control",
+                "Interoperability"
+              ],
+              "correctAnswer": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

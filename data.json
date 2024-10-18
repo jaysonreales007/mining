@@ -1,0 +1,22 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Intro to Blockchain",
+      "modules": 5,
+      "reward": 50
+    },
+    {
+      "id": 2,
+      "title": "Smart Contracts 101",
+      "modules": 7,
+      "reward": 70
+    },
+    {
+      "id": 3,
+      "title": "DeFi Basics",
+      "modules": 6,
+      "reward": 60
+    }
+  ]
+}
